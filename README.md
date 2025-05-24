@@ -7,7 +7,7 @@
 
 ### 👋 Hi, I’m @SampathGannena  
 ### 👀 I’m interested in Full-Stack Web Development, Open Source, and AI/ML  
-### 🌱 I’m currently learning React.js, Node.js, and Python  
+### 🌱 I’m currently learning React.js, Node.js,  Python and Java
 ### 💞️ I’m looking to collaborate on meaningful open-source projects and innovative startups  
 ### 📫 How to reach me:  
 🔗 [LinkedIn](https://www.linkedin.com/in/sampath-gannena)  
