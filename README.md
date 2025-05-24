@@ -11,7 +11,7 @@
 ### 💞️ I’m looking to collaborate on meaningful open-source projects and innovative startups  
 ### 📫 How to reach me:  
 🔗 [LinkedIn](https://www.linkedin.com/in/sampath-gannena)  
-📧 Email: sampathg.dev@gmail.com
+📧 Email: sampathgannena@gmail.com
 
 ---
 
