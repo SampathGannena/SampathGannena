@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SampathGannena&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SampathGannena&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -23,10 +23,24 @@
 
 ---
 
+### 🧠 GitHub Stats
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SampathGannena&show_icons=true&theme=radical" alt="SampathGannena GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SampathGannena&show_icons=true&theme=tokyonight" alt="SampathGannena GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SampathGannena&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SampathGannena&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SampathGannena&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-contribution-graph.vercel.app/?username=SampathGannena&theme=tokyonight" alt="GitHub Contribution Graph" />
 </p>
