@@ -10,11 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=SampathGannena&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=SampathGannena&theme=onedark&margin-w=15&margin-h=15" />
   </a>
-</p>
+</p> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SampathGannena&theme=tokyonight" />
+
 
 ---
 
