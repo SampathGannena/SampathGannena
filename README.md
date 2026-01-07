@@ -46,6 +46,10 @@
   <img src="https://skillicons.dev/icons?i=android,kotlin" />
 </p>
 
+- Android Studio  
+- Activities, Intents, UI/UX  
+- API Integration  
+
 ---
 
 ### 🤖 AI / Machine Learning / NLP
