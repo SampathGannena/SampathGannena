@@ -34,6 +34,29 @@
 
 ---
 
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,chakraui,tailwind" />
+</p>
+
+- Responsive UI Design  
+- Component-Based Architecture  
+- Basic State Management  
+
+---
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- RESTful APIs  
+- JWT Authentication  
+- Middleware & API Security  
+- MVC Architecture  
+
+---
+
 ### 🌐 Full-Stack Web Development (MERN)
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
@@ -47,48 +70,89 @@
 </p>
 
 - Android Studio  
-- Activities, Intents, UI/UX  
+- Activities & Intents  
+- UI/UX Components  
 - API Integration  
 
 ---
 
 ### 🤖 AI / Machine Learning / NLP
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 </p>
 
 - Supervised & Unsupervised Learning  
-- Deep Learning Concepts  
+- Deep Learning Fundamentals  
 - NLP Pipelines & Fine-Tuning  
-- Model Optimization  
+- Model Training & Optimization  
+
+---
+
+### 🧠 Data Science & AI Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter" />
+</p>
+
+- Data Cleaning & Analysis  
+- Feature Engineering  
+- Exploratory Data Analysis (EDA)  
 
 ---
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
 </p>
+
+- Database Design  
+- CRUD Operations  
+- Query Optimization  
 
 ---
 
-### ☁️ Cloud Platforms
+### ☁️ Cloud & DevOps Basics
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
+</p>
+
+- Cloud Fundamentals  
+- Application Deployment  
+- Containerization Basics  
+
+---
+
+### 🚀 Deployment & Hosting
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
 </p>
 
 ---
 
-### 🔐 Cybersecurity & Tools
+### 🔐 Cybersecurity & Secure Development
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,postman" />
 </p>
+
+- Secure Coding Practices  
+- Authentication & Authorization  
+- Network Security Basics  
+- API Testing  
 
 ---
 
 ### 🧰 Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,linux" />
 </p>
+
+---
+
+### 🧩 Software Engineering Skills
+- Problem Solving  
+- Data Structures & Algorithms (Basics)  
+- System Design Fundamentals  
+- Clean Code & Documentation  
+- Agile & Team Collaboration  
 
 ---
 
