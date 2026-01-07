@@ -1,34 +1,10 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=32&
-  duration=3000&
-  pause=1000&
-  color=36BCF7&
-  center=true&
-  vCenter=true&
-  width=700&
-  lines=Hi+👋,+I'm+Sampath+Gannena;
-  AI/ML+Engineer;
-  Full-Stack+Developer;
-  MERN+Stack+Developer;
-  Lifelong+Learner+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sampath+Gannena;AI/ML+Engineer;Full-Stack+Developer;MERN+Stack+Developer;Lifelong+Learner+🚀" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=20&
-  duration=4000&
-  pause=1200&
-  color=FFFFFF&
-  center=true&
-  vCenter=true&
-  width=600&
-  lines=Building+Scalable+Web+Applications;
-  AI+Powered+Solutions;
-  Clean+%26+Maintainable+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;AI+Powered+Solutions;Clean+%26+Maintainable+Code" />
 </h3>
 
 ---
