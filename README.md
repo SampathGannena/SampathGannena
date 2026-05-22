@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 🎓 CSE (AI & ML) Undergraduate  
 
