@@ -40,7 +40,7 @@
 
 ### 🌐 Frontend Development
 
-<p align="center">
+<p align="">
 <img src="https://skillicons.dev/icons?i=react,bootstrap,chakraui,tailwind" />
 </p>
 
@@ -52,7 +52,7 @@
 
 ### ⚙ Backend Development
 
-<p align="center">
+<p align="">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
@@ -65,7 +65,7 @@
 
 ### 🌍 MERN Stack
 
-<p align="center">
+<p align="">
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 </p>
 
@@ -73,7 +73,7 @@
 
 ### 📱 Android Development
 
-<p align="center">
+<p align="">
 <img src="https://skillicons.dev/icons?i=android,kotlin" />
 </p>
 
@@ -85,7 +85,7 @@
 
 ### 🤖 AI / ML / NLP
 
-<p align="center">
+<p align="">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 </p>
 
@@ -98,7 +98,7 @@
 
 ### 🧠 Data Science
 
-<p align="center">
+<p align="">
 <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter" />
 </p>
 
@@ -110,7 +110,7 @@
 
 ### 🗄 Databases
 
-<p align="center">
+<p align="">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
 </p>
 
@@ -118,7 +118,7 @@
 
 ### ☁ Cloud & DevOps
 
-<p align="center">
+<p align="">
 <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
 </p>
 
@@ -129,7 +129,7 @@
 
 ### 🚀 Hosting
 
-<p align="center">
+<p align="">
 <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
 </p>
 
@@ -137,7 +137,7 @@
 
 ### 🔐 Cybersecurity
 
-<p align="center">
+<p align="">
 <img src="https://skillicons.dev/icons?i=linux,git,github,postman" />
 </p>
 
@@ -149,7 +149,7 @@
 
 ### 🧰 Tools
 
-<p align="center">
+<p align="">
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,linux" />
 </p>
 
@@ -224,7 +224,5 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=SampathGannena&theme
 ---
 
 <p align="center">
-
 ⭐ <b>Code • Learn • Build • Improve</b>
-
 </p>
